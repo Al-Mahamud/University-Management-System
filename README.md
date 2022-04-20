@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Programer
+- 👋 Hi, I’m @Al-Mahamud
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on project team
